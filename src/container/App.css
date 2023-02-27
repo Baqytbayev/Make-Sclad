@@ -1,0 +1,18 @@
+.App {
+    margin: 60px auto;
+    max-width: 800px;
+    background: -webkit-linear-gradient(90deg, rgb(152, 207, 195), rgb(86, 181, 184));
+    background: -moz-linear-gradient(90deg, rgb(152, 207, 195), rgb(86, 181, 184));
+    background: linear-gradient(90deg, rgb(152, 207, 195), rgb(86, 181, 184));
+}
+
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.styleOfIcon {
+    width: 25px;
+    height: 25px;
+}
